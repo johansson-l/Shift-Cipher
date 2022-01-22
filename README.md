@@ -22,18 +22,13 @@ List the ready features here:
 - encrypt()
 - decrypt()
 
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
+<!-- 
 ## Usage
 How does one go about using it?
 Provide various use cases and code examples here.
 
 `write-your-code-here`
-
+-->
 
 ## Project Status
 Project is: _in progress_
